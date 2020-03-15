@@ -13,7 +13,7 @@
 2.Linux版，执行dotnet DotnetCoreDdnsDnspod.dll；windows版双击DotnetCoreDdnsDnspod.exe
 
 ## 配置文件说明
-1.Token，在dnspod中申请，同时天然ID和token，两者用逗号隔开；  
+1.Token，在dnspod中申请，同时填入ID和token，两者用逗号隔开；  
 2.Domain，需要更新ip地址的域名；  
 3.IntervalTime，程序检查ip地址时间间隔，单位为秒；  
 4.GetIPUrl，获取用户公网ip地址的链接。 
